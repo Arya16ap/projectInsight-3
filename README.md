@@ -1,2 +1,2 @@
-# projectInsight-3
-the best amigos
+# p5.play-boilerplate
+Boiler plate for p5.play
